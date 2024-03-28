@@ -1,3 +1,8 @@
+Thoughtworks Pairing Interview
+
+Codebase URL: https://github.com/techops-recsys-lateral-hiring/datascientist-politicalparties-python
+
+
 # Survey Analysis
 
 As a data scientist you are required to analyse the political landscape of Europe using the **Chapel Hill Expert Survery** dataset. The dataset provides insights into the positioning of **277 political parties** in Europe based on **55 different attributes**. The dataset can be downloaded [here](https://www.chesdata.eu/2019-chapel-hill-expert-survey) and the [codebook](https://static1.squarespace.com/static/5975c9bfdb29d6a05c65209b/t/5fa04ec05d3c8218b7c91450/1604341440585/2019_CHES_codebook.pdf) provides further information on the survey attributes.

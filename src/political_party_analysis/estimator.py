@@ -1,4 +1,6 @@
 import pandas as pd
+import scipy
+from sklearn import mixture.GaussianMixture
 
 
 class DensityEstimator:
@@ -15,3 +17,4 @@ class DensityEstimator:
         self.feature_names = high_dim_feature_names
 
     ##### YOUR CODE GOES HERE #####
+
